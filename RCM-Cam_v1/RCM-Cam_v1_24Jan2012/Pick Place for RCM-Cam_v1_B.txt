@@ -1,0 +1,49 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U1         BGA36x6           1003.484mil    753.134mil   1082.224mil    679.315mil   1082.224mil    679.315mil  T        180.00 OV7725         
+LH2        LENS_HOLDER_02        1000mil       1385mil        275mil       1385mil        275mil       1385mil  T        360.00 LENS_HOLDER_02 
+LH1        LENS_HOLDER_OV7725       1000mil        740mil        567mil        740mil        567mil        740mil  T        360.00 LENS_HOLDER_OV7725
+M2         MNT_HOLE_100           115mil       1310mil        120mil       1290mil        115mil       1310mil  T          0.00 MNT_HOLE_100   
+M1         MNT_HOLE_100          1885mil       1310mil       1870mil       1260mil       1885mil       1310mil  T          0.00 MNT_HOLE_100   
+D8         LED_TI_THRUHOLE        150mil        925mil        100mil        925mil        100mil        925mil  T          0.00 IR LED T1      
+D7         LED_TI_THRUHOLE       1850mil        575mil       1800mil        575mil       1800mil        575mil  T          0.00 IR LED T1      
+D6         LED_TI_THRUHOLE        150mil        575mil        100mil        575mil        100mil        575mil  T          0.00 IR LED T1      
+D5         LED_TI_THRUHOLE       1850mil        925mil       1800mil        925mil       1800mil        925mil  T          0.00 IR LED T1      
+D4         LED_TI_THRUHOLE        375mil        925mil        325mil        925mil        325mil        925mil  T          0.00 LED T1         
+D3         LED_TI_THRUHOLE       1625mil        925mil       1575mil        925mil       1575mil        925mil  T          0.00 LED T1         
+D2         LED_TI_THRUHOLE        375mil        575mil        325mil        575mil        325mil        575mil  T          0.00 LED T1         
+D1         LED_TI_THRUHOLE       1625mil        575mil       1575mil        575mil       1575mil        575mil  T          0.00 LED T1         
+M3         MNT_HOLE_32           1940mil         90mil       1940mil         90mil       1940mil         90mil  T          0.00 MNT_HOLE_32    
+M4         MNT_HOLE_32           1940mil        200mil       1940mil        200mil       1940mil        200mil  T          0.00 MNT_HOLE_32    
+M5         MNT_HOLE_32             50mil        290mil         50mil        290mil         50mil        290mil  T          0.00 MNT_HOLE_32    
+R9         2012[0805]             120mil        190mil        120mil        190mil    157.401mil        190mil  B        180.00 Res1           
+R7         2012[0805]             370mil        460mil        370mil        460mil    407.401mil        460mil  B        180.00 Res1           
+R6         2012[0805]            1630mil        460mil       1630mil        460mil   1667.401mil        460mil  B        180.00 Res1           
+R5         2012[0805]             150mil        460mil        150mil        460mil    187.401mil        460mil  B        180.00 Res1           
+Q2         SOT23-Standard       149.8mil        320mil        150mil        320mil    187.202mil     273.74mil  B        180.00 BSS138         
+Q4         SOT23-Standard       369.8mil        320mil        370mil        320mil    407.202mil     273.74mil  B        180.00 BSS138         
+Q3         SOT23-Standard      1629.8mil        320mil       1630mil        320mil   1667.202mil     273.74mil  B        180.00 BSS138         
+Q1         SOT23-Standard      1859.8mil        310mil       1860mil        310mil   1897.202mil     263.74mil  B        180.00 BSS138         
+C22        1206_POL           947.303mil        470mil       1010mil        470mil       1010mil        470mil  B        180.00 10uF           
+C20        0805              1247.401mil        660mil       1210mil        660mil       1210mil        660mil  B        360.00 0.1uF          
+C19        0805              1247.401mil        750mil       1210mil        750mil       1210mil        750mil  B        360.00 0.1uF          
+C18        0805               842.598mil        780mil        880mil        780mil        880mil        780mil  B        180.00 0.1uF          
+C17        0805               869.598mil        910mil        907mil        910mil        907mil        910mil  B        180.00 0.1uF          
+C16        0805              1104.401mil        910mil       1067mil        910mil       1067mil        910mil  B        360.00 0.1uF          
+C7         1206_POL               710mil    547.303mil        710mil        610mil        710mil        610mil  B        270.00 4.7uF          
+C1         0805               972.598mil        560mil       1010mil        560mil       1010mil        560mil  B        180.00 0.1uF          
+U2         SOT23-5            528.198mil    513.835mil        567mil        470mil    565.596mil    471.504mil  B        180.00 XC6204B182MR   
+R8         2012[0805]            1480mil        290mil       1480mil        290mil   1517.401mil        290mil  B        180.00 Res1           
+R15        2012[0805]            1860mil        460mil       1860mil        460mil   1897.401mil        460mil  B        180.00 Res1           
+C2         1206_POL          1162.697mil        470mil       1100mil        470mil       1100mil        470mil  B          0.00 10uF           
+C5         0805               529.598mil        340mil        567mil        340mil        567mil        340mil  B        180.00 1uF            
+R1         2012[0805]             970mil        380mil        970mil        380mil    932.598mil        380mil  B        360.00 Res1           
+R2         2012[0805]            1310mil        380mil       1310mil        380mil   1347.401mil        380mil  B        180.00 Res1           
+R3         2012[0805]            1310mil        290mil       1310mil        290mil   1272.599mil        290mil  B        360.00 Res1           
+R4         2012[0805]            1140mil        290mil       1140mil        290mil   1102.599mil        290mil  B        360.00 Res1           
+C3         0805              1137.401mil        560mil       1100mil        560mil       1100mil        560mil  B        360.00 0.1uF          
+J1         HDR2X16_CEN           1000mil        125mil       1750mil         75mil     1750.3mil      74.98mil  B        180.00 TSW-116-15-F-D 
+R10        2012[0805]            1320mil        560mil       1320mil        560mil   1357.401mil        560mil  B        180.00 Res1           
+R11        2012[0805]            1480mil        380mil       1480mil        380mil   1517.401mil        380mil  B        180.00 Res1           
+R12        2012[0805]             120mil        100mil        120mil        100mil    157.401mil        100mil  B        180.00 Res1           
+
