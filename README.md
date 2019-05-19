@@ -3,7 +3,7 @@ RCM-Cam
 
 ![RCM-Cam](http://engineering3.org/wp-content/uploads/GitHub/RCM-Cam.jpg)
 
-This is a camera module for the RCM Control Stack.
+This is a camera module for the RCM Control Stack using the OmniVision OV7725 CMOS chip. Please see [Engineering3](http://engineering3.org/) for more information on the complete RCM Control Stack project.
 
 
 Repository Contents
