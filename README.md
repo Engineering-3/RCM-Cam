@@ -1,7 +1,7 @@
 RCM-Cam
 ========================
 
-![RCM-Cam](http://engineering3.org/wp-content/uploads/2015/02/RCM-Cam_small.jpg)
+![RCM-Cam](http://engineering3.org/wp-content/uploads/GitHub/RCM-Cam.jpg)
 
 This is a camera module for the RCM Control Stack.
 
